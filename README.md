@@ -1,0 +1,2 @@
+# SpringWS
+Simple Spring WS
